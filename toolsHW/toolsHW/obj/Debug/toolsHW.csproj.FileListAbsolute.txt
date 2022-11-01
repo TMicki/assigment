@@ -1,0 +1,8 @@
+H:\tools\toolsHW\toolsHW\bin\Debug\toolsHW.exe.config
+H:\tools\toolsHW\toolsHW\bin\Debug\toolsHW.exe
+H:\tools\toolsHW\toolsHW\bin\Debug\toolsHW.pdb
+H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.AssemblyReference.cache
+H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.SuggestedBindingRedirects.cache
+H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.CoreCompileInputs.cache
+H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.exe
+H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.pdb
