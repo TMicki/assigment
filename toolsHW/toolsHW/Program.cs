@@ -10,6 +10,12 @@ namespace toolsHW
     {
         static void Main(string[] args)
         {
+            //Added list of available conversions
+            Console.WriteLine("The following conversions are supported: ");
+            Console.WriteLine("kg <=> lbs");
+            Console.WriteLine("cm <=> in");
+            Console.WriteLine("ml <=> oz");
+
             Console.WriteLine("Enter value: ");
             int value = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Enter the unit: ");
@@ -49,6 +55,17 @@ namespace toolsHW
             {
                 Console.WriteLine(value * 0.91 + "m");
             }
+
+            //NR: new conversions
+            if (unit == "oz" && unitTo == "ml")
+            {
+                Console.WriteLine(value * 29.574 + " ml");
+            }
+            if (unit == "ml" && unitTo == "oz")
+            {
+                Console.WriteLine((value / 29.574).ToString("F3") + " oz");
+            }
+
             Console.ReadLine();
         }
     }

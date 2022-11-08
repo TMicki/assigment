@@ -6,3 +6,11 @@ H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.SuggestedBindingRedirects.cach
 H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.CoreCompileInputs.cache
 H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.exe
 H:\tools\toolsHW\toolsHW\obj\Debug\toolsHW.pdb
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\bin\Debug\toolsHW.exe.config
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\bin\Debug\toolsHW.exe
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\bin\Debug\toolsHW.pdb
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.AssemblyReference.cache
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.SuggestedBindingRedirects.cache
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\obj\Debug\toolsHW.csproj.CoreCompileInputs.cache
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\obj\Debug\toolsHW.exe
+C:\Users\revel\Source\Repos\assigment\toolsHW\toolsHW\obj\Debug\toolsHW.pdb
